@@ -1439,9 +1439,7 @@ ul {
       color: #fff;
       font-size: 20px;
     }
-    .header-area.dark-home-1 .header-inner .doc:hover{
-      text-decoration: underline;
-    }
+
   .header-area.dark-home-2 {
     background-color: #fff;
     background-image: url(../img/bg/dark-bg-2.png);
